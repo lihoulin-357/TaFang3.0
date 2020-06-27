@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/base0.png</file>
+        <file>image/enemy1.png</file>
+        <file>image/enemy2.png</file>
+        <file>image/enemy3.png</file>
+        <file>image/enemy4.png</file>
+        <file>image/enemy5.png</file>
+        <file>image/firebullet.png</file>
+        <file>image/firetower.png</file>
+        <file>image/frame.png</file>
+        <file>image/Guide.jpg</file>
+        <file>image/icebullet.png</file>
+        <file>image/icetower.png</file>
+        <file>image/info_bar.png</file>
+        <file>image/laserbullet.png</file>
+        <file>image/lasertower.png</file>
+        <file>image/Leave.png</file>
+        <file>image/life2.png</file>
+        <file>image/logo.png</file>
+        <file>image/lose.jpg</file>
+        <file>image/map1.jpg</file>
+        <file>image/map2.jpg</file>
+        <file>image/menu.jpg</file>
+        <file>image/money2.png</file>
+        <file>image/next.png</file>
+        <file>image/normalbullet.png</file>
+        <file>image/normaltower.png</file>
+        <file>image/num1.png</file>
+        <file>image/num2.png</file>
+        <file>image/open_spot.png</file>
+        <file>image/success.jpg</file>
+        <file>image/upgrade.png</file>
+        <file>image/wave2.png</file>
+        <file>music/blackground.mp3</file>
+        <file>music/bossEnemyDie.mp3</file>
+        <file>music/easy.mp3</file>
+        <file>music/enemy_destroy.wav</file>
+        <file>music/fail.mp3</file>
+        <file>music/fastEnemyDie.mp3</file>
+        <file>music/fireBullet.mp3</file>
+        <file>music/fireEnemyDie.mp3</file>
+        <file>music/First Page.mp3</file>
+        <file>music/hard.mp3</file>
+        <file>music/iceBullet.mp3</file>
+        <file>music/iceEnemyDie.mp3</file>
+        <file>music/laserBullet.mp3</file>
+        <file>music/loseblood.mp3</file>
+        <file>music/normalBullet.mp3</file>
+        <file>music/normalEnemyDie.mp3</file>
+        <file>music/place.mp3</file>
+        <file>music/success.mp3</file>
+        <file>config/Info.plist</file>
+        <file>config/Waves.plist</file>
+    </qresource>
+</RCC>
